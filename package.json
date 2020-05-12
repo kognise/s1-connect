@@ -1,0 +1,13 @@
+{
+  "name": "s1-connect",
+  "version": "0.1.0",
+  "description": "A simple session store for Express and Connect using S1",
+  "main": "index.js",
+  "repository": "git@github.com:kognise/s1-connect.git",
+  "author": "Felix <hi@kognise.dev>",
+  "license": "UNLICENSED",
+  "private": false,
+  "dependencies": {
+    "s1db": "^0.0.3"
+  }
+}
