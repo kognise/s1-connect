@@ -19,7 +19,7 @@ Express `4.x`, `5.0` and Connect `3.x`:
 
 ```js
 const session = require('express-session')
-const S1Store = require('connect-s1')(session)
+const S1Store = require('s1-connect')(session)
 
 app.use(
   session({
